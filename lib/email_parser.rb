@@ -10,5 +10,5 @@ class EmailParser
     @name = name
     @csv_data = csv_data
   end
-  
+end 
 end
